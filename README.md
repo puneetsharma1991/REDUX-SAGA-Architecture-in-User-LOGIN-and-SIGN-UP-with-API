@@ -64,3 +64,13 @@ You've successfully run and modified your React Native App. :partying_face:
 Use your local host ID address ... which you have create node JS project to conume apis 
 
 
+App Screens
+
+![WhatsApp Image 2024-02-03 at 4 01 38 PM (1)](https://github.com/puneetsharma1991/REDUX-SAGA-Architecture-in-User-LOGIN-and-SIGN-UP-with-API/assets/80851654/a1bd1b95-d081-4000-8a2d-bfd43fd99145)
+
+
+![WhatsApp Image 2024-02-03 at 4 01 38 PM](https://github.com/puneetsharma1991/REDUX-SAGA-Architecture-in-User-LOGIN-and-SIGN-UP-with-API/assets/80851654/0cd5e930-4226-4688-88a8-1865f3bcd39c)
+
+![WhatsApp Image 2024-02-03 at 4 01 37 PM](https://github.com/puneetsharma1991/REDUX-SAGA-Architecture-in-User-LOGIN-and-SIGN-UP-with-API/assets/80851654/ee3d9868-5f37-4b52-9773-672400590a4e)
+
+
