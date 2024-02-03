@@ -1,5 +1,5 @@
 const endpoint = {
-    signup: `http://192.168.0.181:8000/api/users`
+    signup: `http://enter your local ip address:8000/api/users`
 }
 
 
