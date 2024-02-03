@@ -1,8 +1,7 @@
 
-const API_KEY = 'AIzaSyATUMwesuBSiCA2QdvsDsH1immr8BBKen0'  //put you key here
 
 const endpoint = {
-    login : `http://192.168.0.181:8000/api/users/login`
+    login : `Enter your local IP address:8000/api/users/login`
 }
 
 export const userLogin = async (user) => {
